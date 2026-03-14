@@ -8,3 +8,4 @@ vim.cmd("set list")
 vim.cmd("set listchars=space:·")
 vim.cmd("set mouse=")
 -- vim.cmd("set relativenumber")
+vim.opt.clipboard = "unnamedplus"
