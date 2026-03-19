@@ -11,3 +11,7 @@ ln -snv ~/.dotfiles/nvim/ ~/.config/nvim
 
 # Tmux
 ln -snv ~/.dotfiles/.tmux.conf ~/.tmux.conf
+
+# .bashrc
+# alias
+ln -snv ~/.dotfiles/bashrc/.bash_aliases ~/.bash_aliases
