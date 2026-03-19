@@ -4,7 +4,8 @@ mkdir -p ~/.config
 
 # Neovim
 # install dependencies
-sudo apt-get install ripgrep
+sudo apt install ripgrep
+sudo apt install xclip
 # create symbolic link
 ln -snv ~/.dotfiles/nvim/ ~/.config/nvim
 
